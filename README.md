@@ -5,7 +5,7 @@ Currently evolving into a Fullstack Developer 👨‍💻
 
 I build clean, responsive interfaces and I’m actively expanding into backend development working with APIs, databases, and real-world architectures.
 
-As a Statistics student, I bring a data-driven approach into my projects — not just building, but building with logic and structure 💯  
+As a Statistics student, I bring a data-driven approach into my projects ,not just building, but building with logic and structure 💯  
 
 ### 🚀 What I’m Working On
 - Fullstack development (Frontend + Backend integration)
