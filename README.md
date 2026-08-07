@@ -1,7 +1,8 @@
 ## Hey, I’m Jacob 👋
 
-Frontend Developer with a Break-It-Fix-It mindset ❌  
-Currently evolving into a Fullstack Developer 👨‍💻  
+ Fullstack Developer 👨‍💻  
+
+People remeber how they feel not how it looked
 
 I build clean, responsive interfaces and I’m actively expanding into backend development working with APIs, databases, and real-world architectures.
 
@@ -19,7 +20,7 @@ As a Statistics student, I bring a data-driven approach into my projects ,not ju
 - **Tools:** Git, GitHub, Firebase,
 
 ### 🌐 Portfolio
-👉 https://portfolio-teal-two.vercel.app  
+👉 https://callacob.cv
 
 ---
 
